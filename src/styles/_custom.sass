@@ -1,14 +1,22 @@
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
+    position: relative
+    bottom: 8%
+    right: 61%
+    width: 150px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    position: relative
+    top: 27%
+    right: 65%
+    width: 130px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: relative
+    top: 60%
+    right: 1%
+    width: 180px
 
 
 @keyframes float1
@@ -17,3 +25,26 @@
 
   100%
     transform: translateY(0px)
+
+//colores
+
+.banner-principal__componente h1
+  color: black !important;
+
+.banner-principal p
+  color: black !important;
+
+.me-1
+  color: white !important;
+
+.me-2
+  color: white !important;
+
+.fa-angle-right
+  color: white !important;
+
+.d-md-block
+  color: white !important;
+
+.fa-square
+  color: $color-acento-contenido !important;
