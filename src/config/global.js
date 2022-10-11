@@ -153,32 +153,128 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
+      tema: 'Eventos',
+      referencia:
+        'Cordero López, L. (2016). Organización de eventos como herramienta de comunicación interna: Avon Cosmetics España [Trabajo de grado]. Universidad de Sevilla. ',
+      tipo: 'PDF',
+      link:
+        'https://idus.us.es/bitstream/handle/11441/48294/%20CorderoLopez_Lucia_TFG_2016.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Eventos',
+      referencia: 'Arias, R. (2016). Etapas de un Evento (video). YouTube.  ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Ho6xhcnyuIw ',
+    },
+    {
+      tema: 'Logística en eventos',
+      referencia:
+        'Santander Argentina Oficial. (2018). Cómo organizar un evento (video). YouTube. ',
+      tipo: 'Video',
       link: 'https://www.google.com/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Técnicas de recolección de información',
+      referencia:
+        'TEBAEV VIDEOS EDUCATIVOS. (2020). Técnicas de recolección de datos (video). YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=b4O_XAuAmto ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Acta',
+      significado:
+        'documento que recopila todos los acontecimientos del evento y permite establecer conclusiones decisivas sobre los resultados del mismo.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Afiche',
+      significado:
+        'documento publicitario. En algunos eventos como ferias, exposiciones o seminarios se puede utilizar publicidad física para mostrar e incentivar la participación de los grupos de interés.',
+    },
+    {
+      termino: 'Alianza',
+      significado:
+        'acuerdo entre dos involucrados (personas o empresas) que aportan sus recursos y conocimientos. En grandes eventos es necesario y conveniente trabajar en equipo.',
+    },
+    {
+      termino: 'Ambientación',
+      significado:
+        'hace referencia a la preparación o adecuación del sitio físico o virtual donde se desarrollará el evento.',
+    },
+    {
+      termino: 'Anfitrión',
+      significado:
+        'persona que convida o invita al evento. Se dice también que una empresa o país es anfitrión, cuando se realiza un evento en sus instalaciones o territorio.',
+    },
+    {
+      termino: 'Base de datos',
+      significado:
+        'recopilación de información importante para la empresa o evento, documentada física o digitalmente. Las bases de datos suelen contener información o datos de contacto de los clientes.',
+    },
+    {
+      termino: '<em>Buffet</em>',
+      significado:
+        'es un mostrador para servir comidas. Este tipo de ofrecimiento se realiza en eventos empresariales como congresos, juntas o reuniones.',
+    },
+    {
+      termino: 'Comité organizador',
+      significado:
+        'conjunto de personas que debe cumplir unas funciones específicas con respecto a la organización del evento.',
+    },
+    {
+      termino: 'Conductor',
+      significado:
+        'persona que ameniza o dirige un evento. Es el encargado de dar las instrucciones generales y públicas en el desarrollo del evento.',
+    },
+    {
+      termino: 'Conferencia',
+      significado:
+        'Reunión en la que una o varias personas exponen un tema determinado, profundizado en cada aspecto para brindar un conocimiento a los oyentes.',
+    },
+    {
+      termino: 'Congreso',
+      significado:
+        'reunión de personas, generalmente limitada o cerrada y de carácter importante, en la que los miembros se encuentran para tratar temas y tomar decisiones importantes.',
+    },
+    {
+      termino: 'Evento',
+      significado: 'acontecimiento previamente organizado.',
+    },
+    {
+      termino: 'Foro',
+      significado:
+        'reunión enfocada en el intercambio de opiniones y puntos de vista por parte de los participantes.',
+    },
+    {
+      termino: 'Lanzamiento',
+      significado:
+        'presentación formal y promocional de un producto o servicio.',
+    },
+    {
+      termino: 'Moderador',
+      significado:
+        'persona que hace la apertura, marca los tiempos de participación y modela el desarrollo de los foros, las mesas redondas o los grupos focales.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Molinari, S. (2012). La organización de eventos corporativos e institucionales: las claves de una organización exitosa. Temas Grupo Editorial. ',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/116702',
+    },
+    {
+      referencia:
+        'Panizo Alonso, J. M. y Jiménez-Morales, M. (2017). Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales. Editorial UOC ',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/58629?page=1',
+    },
+    {
+      referencia:
+        'Ramírez Salazar, M. D. P. (2011). Innovación en gestión de eventos organizacionales. Ecoe Ediciones.',
+      link:
+        'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2fereader%2fsenavirtual%2f69184%3fpage%3d1  ',
     },
   ],
   creditos: {
@@ -205,25 +301,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

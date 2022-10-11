@@ -16,7 +16,7 @@
     
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
-        .cajon.color-acento-botones.color-acento-botones.p-4.mb-4.mt-4 
+        .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4.mt-4 
           p.mb-0 La información cualitativa de un evento empresarial describe características, cualidades y rasgos no cuantificables como opiniones personales, descripciones o percepciones sobre un tema determinado, mientras que la información cuantitativa es medible y corresponde a estadísticas, cantidades o mediciones.     
   
     p.mb-4 Existen varias formas de recolectar información según datos requeridos y actividades desarrolladas. De acuerdo con Harvard Business School, entre las técnicas de recolección de información más usadas en analítica empresarial se encuentran las siguientes: 
