@@ -12,7 +12,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='imagen relacionada')
       .col-md-7      
-        p Para iniciar, es necesario saber qué es un evento. Esta palabra viene de la alocución latina eventus, que se refiere a una actividad o acontecimiento planeado y organizado que convoca y reúne a una determinada cantidad de personas en un mismo lugar y al mismo tiempo. Los eventos se pueden organizar para desarrollar diferentes actividades, sean estas de tipo social, cultural, comercial o profesional. También puede definirse como una actividad no rutinaria y planeada, cuyo objetivo puede ser de ocio, cultural, personal u organizacional. Los eventos se pueden gestar por fuera de la actividad normal diaria y pueden ser planeados para educar, informar, celebrar, entretener o generar experiencias en un grupo de personas. 
+        p Para iniciar, es necesario saber qué es un <strong>evento</strong>. Esta palabra viene de la alocución latina <strong><i>eventus</i></strong>, que se refiere a una actividad o acontecimiento planeado y organizado que convoca y reúne a una determinada cantidad de personas en un mismo lugar y al mismo tiempo. Los eventos se pueden organizar para desarrollar diferentes actividades, sean estas de tipo social, cultural, comercial o profesional. También puede definirse como una <strong>actividad no rutinaria y planeada</strong>, cuyo objetivo puede ser de ocio, cultural, personal u organizacional. Los eventos se pueden gestar por fuera de la actividad normal diaria y pueden ser planeados para educar, informar, celebrar, entretener o generar experiencias en un grupo de personas. 
     
     .row.justify-content-center.mb-4
       .col-md-7      
@@ -30,7 +30,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='imagen relacionada')
       .col-md-7      
-        p Ahora, un evento empresarial es una acción concreta, alineada con actividades de la empresa convocante y su estrategia de marketing, que reúne personas o empresas con objetivos afines al tema propuesto. Los eventos empresariales se pueden programar para diferentes objetivos que van desde dar a conocer la empresa hasta promover la fidelización de los clientes internos y externos. 
+        p Ahora, un evento empresarial es una acción concreta, alineada con actividades de la empresa convocante y su estrategia de <i>marketing</i>, que reúne personas o empresas con objetivos afines al tema propuesto. Los eventos empresariales se pueden programar para diferentes objetivos que van desde dar a conocer la empresa hasta promover la fidelización de los clientes internos y externos. 
         p Existe una gran variedad de eventos empresariales celebrados según circunstancias, objetivos, intención, tiempo y lugar, y las necesidades del organizador o anfitrión. Pueden ser eventos de carácter técnico o especializado para sectores específicos que desean ofrecer productos y servicios o que buscan mejorar la imagen de una empresa.
         p Algunos de estos eventos son:
 
@@ -86,7 +86,7 @@
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 Luego del planteamiento del manual de funciones, se hace necesario ahondar un poco más en las responsabilidades y en el paso a paso, para cumplir con las responsabilidades del cargo; es por esta razón, que se plantean aspectos relevantes de los procesos, procedimientos y sus consecuencias, como complemento para la correcta organización de la empresa.    
+          p.mb-0 Es importante tener presente que un evento empresarial bien planeado puede ser una inversión rentable y aportar ventajas económicas y estratégicas, porque fortalece el sentido de pertenencia y permite conocer mejor el mercado objetivo. Además, genera ingresos adicionales, atrae y fideliza clientes y favorece la imagen institucional.     
     
     p.mb-4 Dentro de la logística del evento se encuentran varios pasos. Conozcamos cada uno de ellos:    
 
@@ -122,7 +122,7 @@
               .col-md-6.mb-4.mb-md-0
                 p Antes de hablar de la publicidad es importante conocer el término mercadotecnia, el cual hace referencia al sistema que investiga el comportamiento de los mercados y satisface las necesidades de los consumidores.
                 p Con base en esta definición, para promocionar un evento, es necesario conocer la audiencia o los grupos de interés a convocar.  
-                p Existen diferentes maneras de promocionar o divulgar un evento. De manera tradicional, se pueden enviar tarjetas de invitación, cartas de invitación, hacer banners publicitarios, volantes promocionales, pautas radiales, pautas televisivas, visitas o llamadas. De manera virtual o digital, se pueden usar bases de datos para enviar correos electrónicos de invitación, crear avisos en redes sociales, enviar tarjetas de invitación virtuales, hacer videos promocionales o publicaciones en páginas web.
+                p Existen diferentes maneras de promocionar o divulgar un evento. De manera tradicional, se pueden enviar tarjetas de invitación, cartas de invitación, hacer <i>banners</i> publicitarios, volantes promocionales, pautas radiales, pautas televisivas, visitas o llamadas. De manera virtual o digital, se pueden usar bases de datos para enviar correos electrónicos de invitación, crear avisos en redes sociales, enviar tarjetas de invitación virtuales, hacer videos promocionales o publicaciones en páginas web.
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img8.png', alt='imagen relacionada')
             

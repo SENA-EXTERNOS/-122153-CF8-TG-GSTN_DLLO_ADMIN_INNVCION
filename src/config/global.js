@@ -171,7 +171,7 @@ export default {
       referencia:
         'Santander Argentina Oficial. (2018). Cómo organizar un evento (video). YouTube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=vyEfoTSYyvo ',
     },
     {
       tema: 'Técnicas de recolección de información',

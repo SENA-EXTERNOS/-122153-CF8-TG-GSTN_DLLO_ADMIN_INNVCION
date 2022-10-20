@@ -80,7 +80,7 @@
     p.mb-4 Ahora, veamos un ejemplo de actividades de un subcomité, en este caso de finanzas, es el siguiente:        
 
     .mx-auto.col-md-12.mb-4
-      .titulo-sexto.color-acento-contenido
+      .titulo-sexto.color-acento-botones
         p
           b Figura 1.
           p Ejemplo de actividades del subcomité de finanzas

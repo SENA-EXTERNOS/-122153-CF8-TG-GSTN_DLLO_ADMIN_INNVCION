@@ -26,7 +26,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
             .row(titulo="Observación")
               .col-md-6.mb-4.mb-md-0
-                p Implica observar el comportamiento o actuar de un sujeto en un entorno específico para comprenderlo y registrar lo observado. Hoy en día, se observa a personas interactuar con productos, sitios web y servicios en tiempo real, muchas veces, sin que esas personas lo sepan.
+                p Implica observar el comportamiento o actuar de un sujeto en un entorno específico para comprenderlo y registrar lo observado. Hoy en día, se observa a personas interactuar con productos, sitios <i>web</i> y servicios en tiempo real, muchas veces, sin que esas personas lo sepan.
                 
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img21.png', alt='imagen relacionada')  
@@ -40,7 +40,7 @@
 
             .row(titulo="Seguimiento de transacciones")
               .col-md-6.mb-4.mb-md-0
-                p Se refiere a la acción de acceder a datos de compras de clientes en sitios web, proveedores de servicios o comercio electrónico, que se analizan para generar estrategias de venta enfocadas en las preferencias de consumo.
+                p Se refiere a la acción de acceder a datos de compras de clientes en sitios <i>web</i>, proveedores de servicios o comercio electrónico, que se analizan para generar estrategias de venta enfocadas en las preferencias de consumo.
               
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img23.png', alt='imagen relacionada') 
@@ -54,7 +54,7 @@
             
             .row(titulo="Seguimiento en línea")
               .col-md-6.mb-4.mb-md-0
-                p Técnica con cookies (fragmentos de texto que un sitio web envía al navegador para recordar información sobre preferencias del visitante) por medio de la cual se recogen datos, anuncios en páginas web, campañas de correo electrónico, para analizar cifras, rastrear usuarios y su comportamiento en línea.
+                p Técnica con <i>cookies</i> (fragmentos de texto que un sitio <i>web</i> envía al navegador para recordar información sobre preferencias del visitante) por medio de la cual se recogen datos, anuncios en páginas <i>web</i>, campañas de correo electrónico, para analizar cifras, rastrear usuarios y su comportamiento en línea.
                 
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')
@@ -87,7 +87,7 @@
               
           .row(titulo="Ser fáciles de usar y amigables con los clientes")
             .col-md-12.mb-4.mb-md-0
-            p Su diseño debe ser intuitivo, integrable con otras herramientas y visión global, para poder conectar con la administración de relaciones en las distintas etapas de CRM (Customer Relationship Management).
+            p Su diseño debe ser intuitivo, integrable con otras herramientas y visión global, para poder conectar con la administración de relaciones en las distintas etapas de CRM (<i>Customer Relationship Management</i>).
            
           .row(titulo="Simplificar la elaboración de informes")
             .col-md-12.mb-4.mb-md-0
@@ -95,7 +95,7 @@
             
           .row(titulo="Estar diseñados para facilitar la atención al cliente")
             .col-md-12.mb-4.mb-md-0
-              p Su política de atención al cliente y los can ales de comunicación deben ser útiles y constantes para resolver conflictos. Deben ofrecer diversas formas de contacto, estar diseñados en el idioma de quien lo va a diligenciar y prestar ayuda rápida y eficiente.
+              p Su política de atención al cliente y los canales de comunicación deben ser útiles y constantes para resolver conflictos. Deben ofrecer diversas formas de contacto, estar diseñados en el idioma de quien lo va a diligenciar y prestar ayuda rápida y eficiente.
               
           .row(titulo="Tener buena relación de costo-beneficio")
             .col-md-12.mb-4.mb-md-0

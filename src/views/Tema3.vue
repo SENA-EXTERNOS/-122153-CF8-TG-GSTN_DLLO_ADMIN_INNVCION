@@ -52,7 +52,7 @@
     h3.mb-4.mt-4  
       i#t_3_2.fas.fa-square.me-3.cuadrado
       | Recursos
-    p.mb-4 Los recursos son los medios materiales y humanos dispuestos durante el desarrollo de un evento, Ampliemos la información sobre cada uno de ellos:  
+    p.mb-4 Los recursos son los medios materiales y humanos dispuestos durante el desarrollo de un evento empresarial.   
     
     .row(style=" padding: 8px;")
       .col-lg-6.col-md-6
@@ -82,15 +82,15 @@
    
     h3.mb-4.mt-4 
       i#t_3_4.fas.fa-square.me-3.cuadrado
-      | Feedback o retroalimentación
+      | <i>Feedback</i> o retroalimentación
     
     .row.justify-content-center.mb-4
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img19.png', alt='imagen relacionada')
       .col-md-7      
-        p En el área de eventos empresariales se denomina feedback o retroalimentación a la opinión de los participantes en un evento. Una evaluación exhaustiva del evento permite entender lo que funcionó y lo que no, si se atendieron a cabalidad las expectativas de los asistentes, si funcionó el mercadeo realizado o si el presupuesto y cronograma se apegaron a la realidad. Además, permite identificar en qué área es necesario tener más cuidado. 
-        p El feedback permite mejorar la planificación de eventos, revisar de forma adecuada lo acontecido y contribuye a brindar mayor seguridad al mejorar aspectos puntuales de la planificación de eventos.
+        p En el área de eventos empresariales se denomina <i>Feedback</i> o retroalimentación a la opinión de los participantes en un evento. Una evaluación exhaustiva del evento permite entender lo que funcionó y lo que no, si se atendieron a cabalidad las expectativas de los asistentes, si funcionó el mercadeo realizado o si el presupuesto y cronograma se apegaron a la realidad. Además, permite identificar en qué área es necesario tener más cuidado. 
+        p El <i>Feedback</i> permite mejorar la planificación de eventos, revisar de forma adecuada lo acontecido y contribuye a brindar mayor seguridad al mejorar aspectos puntuales de la planificación de eventos.
     
 
 </template>
