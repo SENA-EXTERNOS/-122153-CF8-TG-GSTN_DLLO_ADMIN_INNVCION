@@ -67,7 +67,6 @@
         .tarjeta.color-acento-contenido-borde.p-4(titulo="Intangibilidad")
           .row
             .col-xl-6.p-4.color-fondo
-              h4 Intangibilidad 
               p No se pueden ver ni tocar. 
             .col-xl-6.mb-4
               figure
@@ -75,7 +74,6 @@
         .tarjeta.color-acento-contenido-borde.p-4(titulo="Indivisibilidad")
           .row
             .col-lg-.col-xl-6.p-4.color-fondo
-              h4 Indivisibilidad
               p Aunque se venden paquetes de servicios, hay una unidad mínima indivisible. 
             .col-xl-6
               figure
@@ -83,7 +81,6 @@
         .tarjeta.color-acento-contenido-borde.p-4(titulo="Heterogeneidad")
           .row
             .col-xl-6.p-4.color-fondo
-              h4 Heterogeneidad
               p Son diversos y variados.
             .col-xl-6
               figure
@@ -91,7 +88,6 @@
         .tarjeta.color-acento-contenido-borde.p-4(titulo="No conservables")
           .row
             .col-xl-6.p-4.color-fondo
-              h4 No conservables
               p No se pueden almacenar. La prestación del servicio y el consumo ocurren simultáneamente. Por ejemplo, cuando un mesero atiende en un restaurante, no se puede almacenar o guardar ese servicio. Si un pasaje de avión con fecha cerrada no se usa, se pierde, pues el vuelo se realiza en la fecha y la hora programadas; puede volar en otro momento, pero no se puede repetir ese instante.
             .col-xl-6.mb-4
               figure(style="margin-top: 50px;")

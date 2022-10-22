@@ -25,7 +25,6 @@
               img(data-aos="zoom-out-up" src='@/assets/curso/temas/texto_destacado/img11.svg', alt='imagen representativa')
       
           .col-md-7.mb-4.mb-md-0
-            h4 Organización
             p Los comités de eventos tienen las siguientes funciones organizacionales:
 
             ol.lista-ol
@@ -50,7 +49,6 @@
               img(data-aos="zoom-out-right" src='@/assets/curso/temas/texto_destacado/img12.svg', alt='imagen representativa')
 
           .col-md-7.mb-4.mb-md-0
-            h4 Alcance
             p Para el desarrollo del evento, cada comité es responsable de planear y organizar cada actividad asignada. Esto permite evaluar cuáles actividades funcionan bien y en cuáles se debe mejorar, para poder plantear acciones correctivas aplicables a próximos eventos.
             p El alcance de un evento está determinado en la fase de planeación, pues es allí donde se define hasta dónde se podrá abarcar en lo que respecta a números de personas, tiempo, localización geográfica y objetivos organizacionales.
             p Los alcances de las funciones de un comité se deben definir en el momento en que este se integra. Estos deben quedar formalmente documentados en el acta de constitución del comité.
@@ -62,7 +60,6 @@
               img(data-aos="zoom-out-right" src='@/assets/curso/temas/texto_destacado/img13.svg', alt='imagen representativa')
 
           .col-md-7.mb-4.mb-md-0
-            h4 Responsabilidades
             p El comité organizador de un evento delega responsabilidades y asegura que estas se realicen de forma puntual, según lo planeado. A su vez, cada subcomité contribuye a planear actividades, seleccionar responsables y velar para que se realicen correctamente, en el tiempo esperado. 
             
           
@@ -73,7 +70,6 @@
               img(data-aos="zoom-out-left" src='@/assets/curso/temas/texto_destacado/img14.svg', alt='imagen representativa')
 
           .col-md-7.mb-4.mb-md-0
-            h4 Documentación
             p Por último, es necesario hacer la documentación de un evento empresarial. Esta brinda un sistema estandarizado de referencia para que todos los usuarios actúen de la misma forma, brinda documentación importante para quienes participan del evento, permite aclarar procesos dudosos y ayuda a simplificar procesos.
             p La documentación es una herramienta útil que ofrece respuestas rápidas en un mismo documento, permite actuar de acuerdo con la reglamentación vigente, ahorra tiempo, sirve como manual de capacitación y reúne información importante de varios documentos en uno solo.
     
