@@ -2,18 +2,9 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    .row.justify-content-between.mb-5
-      .col-auto
-        .titulo-sexto.color-acento-botones
-                p
-                b Gestión del desarrollo administrativo e innovación.
-                br
-                p Síntesis: Introducción a la administración
-      .col-md-1.col-sm-2.col-xs-3
-        img(src="@/assets/template/logo-sena-naranja.svg", alt="alt")
             
-    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
+
     .row.justify-content-center
         .col-lg-10.mb-5
           figure

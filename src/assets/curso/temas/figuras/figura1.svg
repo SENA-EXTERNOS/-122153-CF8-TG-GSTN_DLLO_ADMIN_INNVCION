@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1240" height="435.5" viewBox="0 0 1240 435.5">
-  <g id="Grupo_109457" data-name="Grupo 109457" transform="translate(-180 -1542.75)">
-    <path id="Rectángulo_40275" data-name="Rectángulo 40275" d="M-4163,872h1148c25.4,0,46,17.621,46,39.357v356.785c0,21.736-20.6,39.357-46,39.357H-4163c-25.4,0-46-17.621-46-39.357V911.357C-4209,889.621-4188.4,872-4163,872Z" transform="translate(4389 670.75)" fill="#f3f9ff"/>
-    <g id="Grupo_109428" data-name="Grupo 109428" transform="translate(-14.029 -25.056)">
+  <g id="Grupo_109474" data-name="Grupo 109474" transform="translate(-180 -1586.348)">
+    <path id="Rectángulo_40275" data-name="Rectángulo 40275" d="M-4163,872h1148c25.4,0,46,17.621,46,39.357v356.785c0,21.736-20.6,39.357-46,39.357H-4163c-25.4,0-46-17.621-46-39.357V911.357C-4209,889.621-4188.4,872-4163,872Z" transform="translate(4389 714.348)" fill="#f3f9ff"/>
+    <g id="Grupo_109428" data-name="Grupo 109428" transform="translate(-14.029 18.542)">
       <g id="Grupo_108844" data-name="Grupo 108844" transform="translate(277.029 1608.737)">
         <g id="Controlar_y_reportar_egresos_e_ingresos" data-name="Controlar y reportar egresos e ingresos" transform="translate(0 32)" style="isolation: isolate">
           <text id="Controlar_y_reportar" data-name="Controlar y reportar" transform="translate(15 23)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Controlar y reportar</tspan></text>
@@ -16,8 +16,8 @@
           <text id="y_efectuar_pagos" data-name="y efectuar pagos" transform="translate(0 52.671)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">y efectuar pagos</tspan></text>
         </g>
         <g id="Elaborar_presupuestos_preliminar_y_final" data-name="Elaborar presupuestos preliminar y final" transform="translate(166.083 260.371)" style="isolation: isolate">
-          <text id="Elaborar_presupuestos" data-name="Elaborar presupuestos" transform="translate(0 23)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Elaborar presupuestos</tspan></text>
-          <text id="preliminar_y_final" data-name="preliminar y final" transform="translate(27.887 52.671)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">preliminar y final</tspan></text>
+          <text id="Elaborar_presupuestos" data-name="Elaborar presupuestos" transform="translate(-17.911 23)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Elaborar presupuestos</tspan></text>
+          <text id="preliminares_y_finales" data-name="preliminares y finales" transform="translate(-12.91 52.671)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">preliminares y finales</tspan></text>
         </g>
         <g id="Establecer_gastos_prioritarios" data-name="Establecer gastos prioritarios" transform="translate(518.762 260.371)" style="isolation: isolate">
           <text id="Establecer_gastos" data-name="Establecer gastos" transform="translate(0 23)" fill="#12263f" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Establecer gastos</tspan></text>

@@ -39,14 +39,6 @@ export default {
         numero: '1',
         titulo: 'Eventos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Eventos empresariales',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -61,32 +53,6 @@ export default {
         numero: '3',
         titulo: 'Logística en eventos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Organización',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Recursos',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Plan de contingencia',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Feedback o retroalimentación',
-            hash: 't_3_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -101,14 +67,6 @@ export default {
         numero: '5',
         titulo: 'Trazabilidad del servicio',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Informes de servicio',
-            hash: 't_5_1',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -155,28 +113,29 @@ export default {
     {
       tema: 'Eventos',
       referencia:
-        'Cordero López, L. (2016). Organización de eventos como herramienta de comunicación interna: Avon Cosmetics España [Trabajo de grado]. Universidad de Sevilla. ',
+        'Cordero López, L. (2016). <em>Organización de eventos como herramienta de comunicación interna: Avon Cosmetics España</em> [Trabajo de grado]. Universidad de Sevilla.',
       tipo: 'PDF',
       link:
         'https://idus.us.es/bitstream/handle/11441/48294/%20CorderoLopez_Lucia_TFG_2016.pdf?sequence=1&isAllowed=y',
     },
     {
       tema: 'Eventos',
-      referencia: 'Arias, R. (2016). Etapas de un Evento (video). YouTube.  ',
+      referencia:
+        'Arias, R. (2016). <em>Etapas de un Evento</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Ho6xhcnyuIw ',
     },
     {
       tema: 'Logística en eventos',
       referencia:
-        'Santander Argentina Oficial. (2018). Cómo organizar un evento (video). YouTube. ',
+        'Santander Argentina Oficial. (2018). <em>Cómo organizar un evento</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vyEfoTSYyvo ',
     },
     {
       tema: 'Técnicas de recolección de información',
       referencia:
-        'TEBAEV VIDEOS EDUCATIVOS. (2020). Técnicas de recolección de datos (video). YouTube. ',
+        'TEBAEV VIDEOS EDUCATIVOS. (2020). <em>Técnicas de recolección de datos</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=b4O_XAuAmto ',
     },
@@ -260,19 +219,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Molinari, S. (2012). La organización de eventos corporativos e institucionales: las claves de una organización exitosa. Temas Grupo Editorial. ',
+        'Molinari, S. (2012). <em>La organización de eventos corporativos e institucionales: las claves de una organización exitosa</em>. Temas Grupo Editorial. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/116702',
     },
     {
       referencia:
-        'Panizo Alonso, J. M. y Jiménez-Morales, M. (2017). Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales. Editorial UOC ',
+        'Panizo Alonso, J. M. y Jiménez-Morales, M. (2017). <em>Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales</em>. Editorial UOC ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/58629?page=1',
     },
     {
       referencia:
-        'Ramírez Salazar, M. D. P. (2011). Innovación en gestión de eventos organizacionales. Ecoe Ediciones.',
+        'Ramírez Salazar, M. D. P. (2011). <em>Innovación en gestión de eventos organizacionales</em>. Ecoe Ediciones.',
       link:
         'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2fereader%2fsenavirtual%2f69184%3fpage%3d1  ',
     },

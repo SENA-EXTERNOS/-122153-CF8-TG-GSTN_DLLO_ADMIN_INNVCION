@@ -11,9 +11,10 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img20.png', alt='imagen relacionada')
       .col-md-7      
-        p Al atender a los clientes, uno de los aspectos más importantes es la recolección de información. Pero, ¿qué es esto y para qué sirve? 
-        p Las técnicas de recolección de información se usan para recoger y analizar diferentes formas de información. Estas incluyen examinar documentos sobre un tema específico o realizar entrevistas, observaciones y encuestas para producir información cualitativa o cuantitativa, a partir de la cual se pueden tomar decisiones.
-    
+        p Al atender a los clientes, uno de los aspectos más importantes es la recolección de información. Pero, ¿qué es esto y para qué sirve?
+
+        p Las técnicas de recolección de información, se usan para acopiar y analizar diferentes estructuras de información. Estas incluyen examinar documentos sobre un tema específico o realizar entrevistas, observaciones y encuestas, para producir información cualitativa o cuantitativa. A partir de la información recolectada, se pueden tomar decisiones. 
+
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4.mt-4 
@@ -26,8 +27,8 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
             .row(titulo="Observación")
               .col-md-6.mb-4.mb-md-0
-                p Implica observar el comportamiento o actuar de un sujeto en un entorno específico para comprenderlo y registrar lo observado. Hoy en día, se observa a personas interactuar con productos, sitios <i>web</i> y servicios en tiempo real, muchas veces, sin que esas personas lo sepan.
-                
+                p Implica observar el comportamiento o el actuar de un sujeto, en un entorno específico, para comprenderlo y registrar lo observado. En la actualidad, se observa a personas en su interacción con productos, sitios web y servicios, en tiempo real. Muchas veces, tal observación, es realizada sin que esas personas se enteren.
+
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img21.png', alt='imagen relacionada')  
            
@@ -40,8 +41,8 @@
 
             .row(titulo="Seguimiento de transacciones")
               .col-md-6.mb-4.mb-md-0
-                p Se refiere a la acción de acceder a datos de compras de clientes en sitios <i>web</i>, proveedores de servicios o comercio electrónico, que se analizan para generar estrategias de venta enfocadas en las preferencias de consumo.
-              
+                p Se refiere a la acción de acceder a datos de compras de clientes en sitios web, proveedores de servicios o comercio electrónico, que se analizan para generar estrategias de venta, enfocadas en las preferencias de consumo.
+
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img23.png', alt='imagen relacionada') 
 
@@ -54,8 +55,8 @@
             
             .row(titulo="Seguimiento en línea")
               .col-md-6.mb-4.mb-md-0
-                p Técnica con <i>cookies</i> (fragmentos de texto que un sitio <i>web</i> envía al navegador para recordar información sobre preferencias del visitante) por medio de la cual se recogen datos, anuncios en páginas <i>web</i>, campañas de correo electrónico, para analizar cifras, rastrear usuarios y su comportamiento en línea.
-                
+                p Técnica con <em>cookies</em> (fragmentos de texto que un sitio web envía al navegador para recordar información sobre preferencias del visitante), por medio de la cual se recogen datos, anuncios en páginas web, campañas de correo electrónico; esto para analizar cifras, rastrear usuarios y su comportamiento en línea. 
+
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')
 

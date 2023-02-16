@@ -34,13 +34,15 @@
               li 
                 i.fas.fa-angle-right.txt--black
                 | Estructurar el programa técnico, seleccionar los ponentes, conferencistas y coordinadores de actividades.
+
               li 
                 i.fas.fa-angle-right.txt--black
                 | Determinar la estructura del evento a desarrollar.
+
               li 
                 i.fas.fa-angle-right.txt--black
                 | Convocar a reuniones, establecer actividades, controlar su ejecución e informar sobre los imprevistos que se presenten.
-        
+
           
       .py-3.py-md-4(titulo="Alcance")
         .row.justify-content-around.align-items-center
@@ -73,13 +75,13 @@
             p Por último, es necesario hacer la documentación de un evento empresarial. Esta brinda un sistema estandarizado de referencia para que todos los usuarios actúen de la misma forma, brinda documentación importante para quienes participan del evento, permite aclarar procesos dudosos y ayuda a simplificar procesos.
             p La documentación es una herramienta útil que ofrece respuestas rápidas en un mismo documento, permite actuar de acuerdo con la reglamentación vigente, ahorra tiempo, sirve como manual de capacitación y reúne información importante de varios documentos en uno solo.
     
-    p.mb-4 Ahora, veamos un ejemplo de actividades de un subcomité, en este caso de finanzas, es el siguiente:        
+    p.mb-4 Ahora, veamos un ejemplo de actividades de un subcomité; en este caso, el de finanzas:
 
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-botones
         p
-          b Figura 1.
-          p Ejemplo de actividades del subcomité de finanzas
+          b Figura 1
+          p <em>Ejemplo de actividades del subcomité de finanzas</em>
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  

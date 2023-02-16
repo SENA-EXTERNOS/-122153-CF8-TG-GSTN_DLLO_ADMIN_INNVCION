@@ -104,9 +104,12 @@
            
             .row(titulo="Elaboración de agenda")
               .col-md-6.mb-4.mb-md-0
-                p La agenda de un evento es una herramienta de trabajo necesaria para la planificación, organización y optimización de los recursos (tiempo, materiales, involucrados, entre otros). Se trata de un libro o libreta en la se planean todos los aspectos inherentes al evento, organizados de manera cronológica para dar el cumplimiento según lo planeado.
+                p La agenda de un evento, es una herramienta de trabajo necesaria para la planificación, organización y optimización de los recursos (tiempo, materiales, involucrados, entre otros). Se trata de una libreta en la que se planean todos los aspectos inherentes al evento, organizados de manera cronológica, para alcanzar el cumplimiento, según lo planeado.
+
                 p En este punto es importante hacerse la siguiente pregunta: ¿Qué se necesita para organizar correctamente la agenda de un evento empresarial?
+
                 p Para que una agenda se organice correctamente es necesario conocer cada actividad a desarrollar, los responsables, la duración y las necesidades logísticas. Es fundamental revisar la locación, los materiales, los responsables y la información a publicar para hacer la convocatoria del evento, y al concluir, se debe redactar un informe que evalúe los resultados. En este informe se deben destacar el cumplimiento favorable o desfavorable de los objetivos propuestos y la satisfacción de todos los grupos de interés involucrados.
+
               .col-6.mb-3
                 img(src='@/assets/curso/temas/texto_destacado/img6.png', alt='imagen relacionada') 
 

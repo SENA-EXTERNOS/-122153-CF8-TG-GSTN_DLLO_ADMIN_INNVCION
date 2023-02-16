@@ -73,8 +73,8 @@
     h3.mb-4.mt-4 
       i#t_3_3.fas.fa-square.me-3.cuadrado
       | Plan de contingencia
-    p.mb-4 Un plan de contingencia representa un conjunto de operaciones alternativas al desarrollo normal de cada evento. Su finalidad es permitir que un evento se desarrolle de manera correcta, aun cuando alguna de las actividades o funciones se desvíen de su ruta normal por algunas circunstancias ajenas a la organización.  
-   
+    p.mb-4 Un plan de contingencia representa un conjunto de operaciones alternativas al desarrollo normal de cada evento. Su finalidad es la de permitir que un evento se desarrolle de manera correcta, incluso cuando alguna de las actividades o funciones se desvíen de su ruta normal, por algunas circunstancias ajenas a la organización.
+    
     .row.justify-content-around.align-items-center
       .col-lg-9
         .cajon.color-acento-botones.color-acento-botones.p-4.mb-4.mt-4 
