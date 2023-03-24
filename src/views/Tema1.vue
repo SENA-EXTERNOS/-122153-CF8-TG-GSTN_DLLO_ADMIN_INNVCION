@@ -37,51 +37,51 @@
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
       .tarjeta.slider.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="flip-up" src='@/assets/componentes/tarjeta1.svg' alt='dibujo relacionado')
-        h2.text-center Ruedas de prensa
+        h5.text-center Ruedas de prensa
        
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-in-up" src='@/assets/componentes/tarjeta2.svg' alt='dibujo relacionado')
-        h2.text-center Seminarios
+        h5.text-center Seminarios
        
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-up" src='@/assets/componentes/tarjeta3.svg' alt='dibujo relacionado')
-        h2.text-center Procesos de formación
+        h5.text-center Procesos de formación
         
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-up" src='@/assets/componentes/tarjeta4.svg' alt='dibujo relacionado')
-        h2.text-center Lanzamiento de un nuevo producto
+        h5.text-center Lanzamiento de un nuevo producto
        
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-up" src='@/assets/componentes/tarjeta5.svg' alt='dibujo relacionado')
-        h2.text-center Ferias y exposiciones
+        h5.text-center Ferias y exposiciones
        
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-down" src='@/assets/componentes/tarjeta6.svg' alt='dibujo relacionado')
-        h2.text-center Juntas y asambleas
+        h5.text-center Juntas y asambleas
        
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-down" src='@/assets/componentes/tarjeta7.svg' alt='dibujo relacionado')
-        h2.text-center Congresos
+        h5.text-center Congresos
         
       .tarjeta.slider.color-secundario.p-4(style='height:250px')
         .row.justify-content-center.mb-3
-          .col-7.mb-3
+          .col-7
             img(data-aos="zoom-out-down" src='@/assets/componentes/tarjeta8.svg' alt='dibujo relacionado')
-        h2.text-center Desayunos de trabajo
+        h5.text-center Desayunos de trabajo
 
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
