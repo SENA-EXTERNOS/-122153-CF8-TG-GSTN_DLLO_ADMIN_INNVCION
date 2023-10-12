@@ -15,7 +15,7 @@
         p Tenemos claro qué es el evento, ahora hablemos del conjunto de personas encargadas de velar por el éxito de un evento. Se pueden crear subcomités, los cuales se encargan de organizar partes específicas del evento, como las finanzas, las relaciones públicas o la logística.
         p Todo comité se debe estructurar de manera formal (mediante acta) y lo deben conformar personas debidamente notificadas, que ejecuten roles necesarios e importantes dentro del evento.
     
-    p.mb-4 A continuación, se presentan a lgunos ítems importantes que deben tener en cuenta los comités de eventos.
+    p.mb-4 A continuación, se presentan a algunos ítems importantes que deben tener en cuenta los comités de eventos.
 
     TabsC.color-acento-contenido.mb-4
       .py-3.py-md-4(titulo="Organización")

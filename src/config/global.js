@@ -231,7 +231,7 @@ export default {
     },
     {
       referencia:
-        'Ramírez Salazar, M. D. P. (2011). <em>Innovación en gestión de eventos organizacionales</em>. Ecoe Ediciones.',
+        'Ramírez Salazar, M. D. P. (2011). <em>Innovación en gestión de eventos organizacionales</em>. Ecoe Ediciones. ',
       link:
         'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2fereader%2fsenavirtual%2f69184%3fpage%3d1  ',
     },

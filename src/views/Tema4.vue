@@ -76,12 +76,12 @@
 
     p También encontramos unas características que deben cumplir los diferentes instrumentos para recolección de información. Algunas de esas características son: 
 
-    .row.col-md-12.mb-4
-      .col-lg-5
+    .row.mb-4
+      .col-lg-5.col-10.mb-lg-0.mb-4.mx-auto
         figure
-            img(style="height: 655px" data-aos="fade-down-right" src='@/assets/curso/temas/texto_destacado/img28.png', alt='imagen relacionada')
-      .col-lg-6
-        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario" style="width: 610px" )
+            img(data-aos="fade-down-right" src='@/assets/curso/temas/texto_destacado/img28.png', alt='imagen relacionada')
+      .col-lg-6.px-2
+        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Ser completos y funcionales")
             .col-md-12.mb-4.mb-md-4
               p Es decir, deben ser compatibles con escenarios reales y permitir formular diferentes tipos de preguntas. Deben tener validación aplicable a diferentes opciones de respuesta para recolectar datos precisos y minimizar su limpieza, y deben incluir preguntas relevantes.

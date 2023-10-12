@@ -48,7 +48,7 @@
 
     .mx-auto.col-md-12.mb-4
       figure
-          img(data-aos="flip-right" src='@/assets/curso/temas/figuras/figura2.png', alt='Ejemplo mapa de procesos')
+          img(data-aos="flip-right" src='@/assets/curso/temas/figuras/figura2.svg', alt='Ejemplo mapa de procesos')
     h3.mb-4.mt-4  
       i#t_3_2.fas.fa-square.me-3.cuadrado
       | Recursos

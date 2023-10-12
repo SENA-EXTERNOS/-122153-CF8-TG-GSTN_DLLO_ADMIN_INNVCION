@@ -31,9 +31,9 @@
 
     p.mb-4 Conozcamos unos datos importantes sobre los informes de servicios: 
 
-    .row.mb-5
-      .col-sm-6.col-lg-6.col-xl-4.mb-4.mb-xl-0(style="min-height: 400px")
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+    .row.justify-content-center.mb-5
+      .col-xl-4.col-lg-5.col-md-6.col-sm-7.col-10.mb-4
+        .tarjeta.tarjeta-flip.color-primario.h-100(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img31.svg')})`}")
               .titulo-principal__numero.circulo 
@@ -41,8 +41,8 @@
             .tarjeta-flip__contenido.p-4.p-xl-5(style="text-align: center")
               p Un buen informe de servicio al cliente toma datos sin procesar y los convierte en estadísticas, para ofrecer una visión general de lo que necesitan y esperan los clientes. Por tanto, este permitirá que la empresa haga seguimiento a tendencias, identifique áreas por mejorar, planifique con eficiencia horarios, carga laboral del personal y pueda mejorar su oferta de servicios.
 
-      .col-sm-6.col-lg-6.col-xl-4.mb-4.mb-sm-0(style="min-height: 400px")
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+      .col-xl-4.col-lg-5.col-md-6.col-sm-7.col-10.mb-4
+        .tarjeta.tarjeta-flip.color-primario.h-100(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img32.svg')})`}")
               .titulo-principal__numero.circulo 
@@ -50,14 +50,14 @@
             .tarjeta-flip__contenido.p-4.p-xl-5(style="text-align: center")
               p Un informe de servicio al cliente facilita a una empresa el proceso de toma de decisiones, permite aplicar acciones de mejora frente al nivel de satisfacción de los clientes, contribuye a lograr una mejor gestión de la fuerza laboral y mejora los niveles de eficacia y productividad del equipo de atención al cliente. Está claro que, en la actualidad, el consumidor está más conectado y empoderado, debido a que tiene conocimientos digitales. Por lo tanto, este es más exigente frente a la calidad del servicio que espera de las marcas que usa.
 
-      .col-sm-6.col-lg-6.col-xl-4(style="min-height: 400px")
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+      .col-xl-4.col-lg-5.col-md-6.col-sm-7.col-10.mb-4
+        .tarjeta.tarjeta-flip.color-primario.h-100(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img33.svg')})`}")
               .titulo-principal__numero.circulo 
                  span 3
             .tarjeta-flip__contenido.p-4.p-xl-5(style="text-align: center")
-              p Las estadísticas de servicio al cliente, las cuales son utilizadas en el informe de servicio, permiten a una empresa medir su desempeño, eficiencia y muestran qué canales de asistencia prefieren usar los clientes. Además, hacen posible estimar la cantidad de personal que se requiere para atender el área de servicio al cliente de forma efectiva, detectar si el equipo de trabajo cumple con sus funciones de manera adecuada, mejorar la carga laboral para evitar agotamiento, identificar y recompensar el buen desempeño, dar información relevante para mejorar productividad y conocer la información detallada sobre percepción del cliente.
+              p Las estadísticas de servicio al cliente, las cuales son utilizadas en el informe de servicio, permiten a una empresa medir su desempeño, eficiencia y muestran qué canales de asistencia prefieren usar los clientes. Además, hacen posible estimar la cantidad de personal que se requiere para atender el área de servicio al cliente de forma efectiva, detectar si el equipo de trabajo cumple con sus funciones de manera adecuada, mejorar la carga laboral para evitar agotamiento, identificar y recompensar el buen desempeño, dar información relevante para mejorar productividad y conocer la información detallada sobre la percepción del cliente.
       
     p.mb-4.mt-4 Para finalizar, es importante recordar que un servicio es la acción o el conjunto de actividades destinadas a satisfacer una necesidad determinada de un cliente con un producto intangible, personalizado y heterogéneo, porque atiende diferentes factores; es decir, no involucra cadenas de producción en masa como sí ocurre en la producción de bienes. 
     
